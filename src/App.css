@@ -1,0 +1,32 @@
+.app-wrapper {
+  margin: 0 auto;
+  width: 1200px;
+  display: grid;
+  grid-template-areas: 
+  "h h"
+  "n c";
+  grid-template-rows: 60px 1fr;
+  grid-template-columns: 2fr 10fr;
+  background-color: #f8f8f8;
+  /* grid-gap: 10px; */
+}
+
+.nav {
+  grid-area: n;
+  border-right: 1px solid #ebebeb;
+}
+
+.nav div a {
+  display: block;
+  padding: 8px 24px;
+  margin-bottom: 7px;
+  text-decoration: none;
+}
+
+.nav div a:hover {
+  background-color: #ebebeb;
+}
+
+.app-wrapper-content {
+  grid-area: c;
+}

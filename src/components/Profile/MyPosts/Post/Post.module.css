@@ -1,0 +1,10 @@
+.postItemWrap {
+    display: flex;
+    margin: 10px 0;
+    align-items: center;
+}
+
+.postItemWrap img {
+    width: 50px;
+    border-radius: 50%; 
+}

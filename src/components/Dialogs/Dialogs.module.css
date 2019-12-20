@@ -1,0 +1,8 @@
+.dialogWrapper {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.activeLink {
+    color: black;
+}
