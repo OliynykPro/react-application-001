@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-application-001/static/css/main.0dec9b1f.chunk.css",
+    "main.js": "/react-application-001/static/js/main.90c8ac04.chunk.js",
+    "main.js.map": "/react-application-001/static/js/main.90c8ac04.chunk.js.map",
+    "runtime~main.js": "/react-application-001/static/js/runtime~main.a167ea39.js",
+    "runtime~main.js.map": "/react-application-001/static/js/runtime~main.a167ea39.js.map",
+    "static/js/2.79c5b2bd.chunk.js": "/react-application-001/static/js/2.79c5b2bd.chunk.js",
+    "static/js/2.79c5b2bd.chunk.js.map": "/react-application-001/static/js/2.79c5b2bd.chunk.js.map",
+    "index.html": "/react-application-001/index.html",
+    "precache-manifest.97db242549fb8d4c0949389ed6a16d5a.js": "/react-application-001/precache-manifest.97db242549fb8d4c0949389ed6a16d5a.js",
+    "service-worker.js": "/react-application-001/service-worker.js",
+    "static/css/main.0dec9b1f.chunk.css.map": "/react-application-001/static/css/main.0dec9b1f.chunk.css.map",
+    "static/media/loader.gif": "/react-application-001/static/media/loader.1a7925ff.gif",
+    "static/media/logo.png": "/react-application-001/static/media/logo.4f1a6013.png"
+  }
+}
